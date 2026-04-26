@@ -1,0 +1,2 @@
+# yolo-object-detection
+Real-time object detection system using YOLOv8 (Ultralytics). Custom-trained on self-curated datasets to detect any target object class. Full pipeline: data collection, model training, and inference. Built with Python and OpenCV.
